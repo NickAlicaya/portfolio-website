@@ -676,7 +676,7 @@ h1.arrow span {
 	margin-bottom: 40px;
 }
 .services .icon {
-	position: inline-block;
+	position: relative;
 	width: 175px;
 	height: 175px;
 	margin: 0 auto;
